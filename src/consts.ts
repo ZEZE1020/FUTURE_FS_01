@@ -1,11 +1,12 @@
 import type { IconMap, SocialLink, Site } from '@/types'
 
 export const SITE: Site = {
-  title: 'astro-erudite',
+  title: 'Godfrey Ogembo ',
   description:
-    'astro-erudite is a opinionated, unstyled blogging template—built with Astro, Tailwind, and shadcn/ui.',
+    'Hello, I am Godfrey Ogembo, a software engineer with a passion for building scalable and efficient applications. I love exploring new technologies and sharing my knowledge with others.',
+  keywords: 'Godfrey Ogembo, software engineer, web development, programming',
   href: 'https://astro-erudite.vercel.app',
-  author: 'jktrn',
+  author: 'Ogembo Godfrey',
   locale: 'en-US',
   featuredPostCount: 2,
   postsPerPage: 3,
@@ -28,7 +29,7 @@ export const NAV_LINKS: SocialLink[] = [
 
 export const SOCIAL_LINKS: SocialLink[] = [
   {
-    href: 'https://github.com/jktrn',
+    href: 'https://github.com/ZEZE1020',
     label: 'GitHub',
   },
   {
@@ -36,12 +37,12 @@ export const SOCIAL_LINKS: SocialLink[] = [
     label: 'Twitter',
   },
   {
-    href: 'mailto:jason@enscribe.dev',
+    href: 'mailto:ogembogodfrey75@gmail.com',
     label: 'Email',
   },
   {
-    href: '/rss.xml',
-    label: 'RSS',
+    href: 'https://www.linkedin.com/in/ogembo-godfrey/',
+    label: 'LinkedIn',
   },
 ]
 
