@@ -22,8 +22,12 @@ export const NAV_LINKS: SocialLink[] = [
     label: 'authors',
   },
   {
+    href: '/contact',
+    label: 'contact',
+  },
+  {
     href: '/about',
-    label: 'about',
+    label: 'projects',
   },
 ]
 
@@ -33,7 +37,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
     label: 'GitHub',
   },
   {
-    href: 'https://twitter.com/enscry',
+    href: 'https://x.com/ogembo_godfrey',
     label: 'Twitter',
   },
   {
