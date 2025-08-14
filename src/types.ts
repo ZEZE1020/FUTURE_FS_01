@@ -1,6 +1,7 @@
 export type Site = {
   title: string
   description: string
+  keywords: string
   href: string
   author: string
   locale: string
